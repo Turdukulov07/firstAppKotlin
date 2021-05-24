@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appKotlin</string>
+
+
+        <string name="enter_name">Введите имя</string>
+        <string name="enter">ВОЙТИ</string>
+        <string name="back">НАЗАД</string>
+        <string name="get_list">ПЕРЕЙТИ К СПИСКУ</string>
+    </resources>
